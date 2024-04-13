@@ -1,5 +1,6 @@
-### Hi there 👋
+### Olá, meu nome é Luiz Gabriel, mais conhecido como Luizoka 👋😄
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)] (https://www.instagram.com/luizoka_/)
 <!--
 **Luizoka/Luizoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
