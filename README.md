@@ -5,7 +5,7 @@
 
 ![Luizoka GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizoka&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizoka&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizoka&layout=compact&theme=Dracula)
 
 ### Tecnologias que uso 
 <div style="display: inline-block">
