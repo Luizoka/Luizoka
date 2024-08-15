@@ -3,7 +3,7 @@
 function main() {
     let name = 'Luiz Rabelo';
     let nickname = 'Luizoka';
-    let education = ‘Graduating in Computer Science from UFOPA’;
+    let education = 'Graduating in Computer Science from UFOPA';
     let focus = 'Frontend/Backend';
     let mainLanguages = ['JavaScript', 'PHP'];
     let location = 'Pará, Brasil';
