@@ -1,11 +1,24 @@
- ### Olá, meu nome é Luiz Gabriel, mais conhecido como Luizoka 👋😄
+## About me
+ ```Javascript
+function main() {
+    let name = 'Luiz Rabelo';
+    let nickname = 'Luizoka';
+    let education = ‘Graduating in Computer Science from UFOPA’;
+    let focus = 'Frontend/Backend';
+    let mainLanguages = ['JavaScript', 'PHP'];
+    let location = 'Pará, Brasil';
+}
+```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizoka&layout=compact&theme=dracula)
+
+![Luizoka GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizoka&show_icons=true&theme=radical)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizoka_/)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Luizoka)
 
-![Luizoka GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizoka&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizoka&layout=compact&theme=dracula)
+
+
 
 ### Tecnologias que uso 
 <div style="display: inline-block">
