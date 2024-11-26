@@ -41,7 +41,23 @@
 <h2 align="center">⚒️ Tecnologias que Uso ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,mysql,postgres,docker,html,css,vscode,github,git,npm,postman" /><br>
+
+**Linguagens:**
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts" /><br>
+
+**Frameworks:**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" /><br>
+
+**Banco de Dados:**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>
+
+**Outros:**
+<br>
+<img src="https://skillicons.dev/icons?i=postman,html,css,php,vscode,github,git,blender,figma,npm,bootstrap" /><br>
+</div>
 <!--<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,mysql,postgres,docker,html,css,php,vscode,github,git,python,blender,figma,npm,notion,bootstrap,postman,windows" /><br> -->
 </div>
 
