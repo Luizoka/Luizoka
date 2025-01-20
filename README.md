@@ -28,7 +28,7 @@
   <a href="https://luizoka.github.io/Portfolio-Programacao-Web-UFOPA/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.instagram.com/luizoka_/">
+  <a href="https://www.instagram.com/luizoka.dev/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/>
     </a>
       <a href="https://codepen.io/Luizoka">
