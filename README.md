@@ -56,8 +56,8 @@
 
 **Outros:**
 <br>
-<img src="https://skillicons.dev/icons?i=postman,html,css,vscode,github,go,bun" /><br>
-<img src="https://skillicons.dev/icons?i=php,git,figma,npm,bootstrap,docker,tailwind,ubuntu,mint" /><br>
+<img src="https://skillicons.dev/icons?i=postman,html,css,vscode,github,go,bun,jest" /><br>
+<img src="https://skillicons.dev/icons?i=php,laravel,git,figma,npm,bootstrap,docker,tailwind,ubuntu,mint,redis" /><br>
 </div>
 <!--<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,mysql,postgres,docker,html,css,php,vscode,github,git,python,blender,figma,npm,notion,bootstrap,postman,windows" /><br> -->
 </div>
