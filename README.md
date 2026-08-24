@@ -44,22 +44,19 @@
 
 **Linguagens:**
 <br>
-<img src="https://skillicons.dev/icons?i=js,ts" /><br>
+<img src="https://skillicons.dev/icons?i=ts,js,php" /><br>
 
 **Frameworks:**
 <br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" /><br>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,nestjs,laravel" /><br>
 
 **Banco de Dados:**
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,prisma" /><br>
 
 **Outros:**
 <br>
-<img src="https://skillicons.dev/icons?i=postman,html,css,vscode,github,go,bun,jest" /><br>
-<img src="https://skillicons.dev/icons?i=php,laravel,git,figma,npm,bootstrap,docker,tailwind,ubuntu,mint,redis" /><br>
-</div>
-<!--<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,mysql,postgres,docker,html,css,php,vscode,github,git,python,blender,figma,npm,notion,bootstrap,postman,windows" /><br> -->
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,vercel" /><br>
 </div>
 
 <br/>
@@ -78,15 +75,15 @@
   <img 
     width="390" 
     style="vertical-align: top;" 
-    src="https://github-readme-stats.vercel.app/api?username=Luizoka&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
-    alt="readme stats" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luizoka&theme=github_dark" 
+    alt="estatísticas do GitHub" 
   />
   <br/>
   <img 
     width="325" 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizoka&hide=CSS,HTML,plpgsql,openscad&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
-    alt="top langs" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luizoka&theme=github_dark&exclude=html%2C+css" 
+    alt="repositórios por linguagem" 
   />
 </div>
 
