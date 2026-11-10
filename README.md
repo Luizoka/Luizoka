@@ -69,7 +69,7 @@
   <img 
     width="390" 
     style="vertical-align: top;" 
-    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Luizoka&count_private=true&theme=react&border_radius=10" 
+    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Luizoka&count_private=true&theme=react&border_radius=10&exclude_days=Sun%2CSat" 
     alt="streak stats"
   />
   <img 
