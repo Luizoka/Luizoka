@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Olá, eu sou Luiz Lopes! 👋
@@ -20,8 +19,6 @@ Desenvolvedor Full Stack focado em construir aplicações web, APIs e soluções
 - 🎓 Bacharel em **Ciência da Computação pela UFOPA**.
 - 💻 Desenvolvedor **Full Stack**, com experiência em aplicações web, APIs e sistemas de gestão.
 - 🚀 Atuo desde o planejamento e desenvolvimento até o deploy e a manutenção.
-- 🔧 Trabalho com **TypeScript, React, Node.js, NestJS, Laravel e PostgreSQL**.
-- 🌎 Santarém, Pará — Brasil.
 
 ### 🛠️ Tecnologias
 
@@ -51,8 +48,8 @@ Desenvolvedor Full Stack focado em construir aplicações web, APIs e soluções
 
 | Projeto | Descrição |
 |---|---|
-| **Solux Gestão** | Sistema de gestão de serviços e pós-venda para o setor de energia solar. |
 | **Rastreio Fácill** | Plataforma de rastreamento e monitoramento de localização. |
+| **Solux Gestão** | Sistema de gestão de serviços e pós-venda para o setor de energia solar. |
 | **Mapa GD** | Ferramenta para gerenciamento de unidades consumidoras e distribuição de créditos de energia solar (Geração Distribuída). |
 | **Site Fácill Energia Solar** | Plataforma web com ferramentas comerciais e de gestão interna. |
 
