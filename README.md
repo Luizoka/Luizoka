@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá, eu sou Luiz Rabelo! 👋
+# Olá, eu sou Luiz Lopes! 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Bacharel+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Transformando+ideias+em+solu%C3%A7%C3%B5es" alt="Typing SVG" />
 
