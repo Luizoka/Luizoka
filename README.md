@@ -8,7 +8,7 @@ Desenvolvedor Full Stack focado em construir aplicações web, APIs e soluções
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-0A192F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://luizoka.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-rabelo-3743b71b9/)
-[![Gmail](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizgalopes01@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.luizlopes@gmail.com)
 
 </div>
 
